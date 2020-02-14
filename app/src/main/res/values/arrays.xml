@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currencies">
+        <item>EUR €</item>
+        <item>USD $</item>
+        <item>GBP £</item>
+    </string-array>
+
+    <string-array name="types">
+        <item>Trans</item>
+        <item>Lodge</item>
+        <item>Gifts</item>
+        <item>Meals</item>
+        <item>Other</item>
+    </string-array>
+
+
+</resources>

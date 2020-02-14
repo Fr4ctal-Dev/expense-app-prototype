@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Expense Prototype</string>
+    <string name="reason">Purpose</string>
+    <string name="amount">Amount</string>
+    <string name="add_button_string">add</string>
+    <string name="type">Type</string>
+    <string name="save">Save</string>
+    <string name="sync_status">sync_status</string>
+
+
+</resources>
